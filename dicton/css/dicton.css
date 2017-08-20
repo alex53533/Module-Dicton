@@ -1,0 +1,11 @@
+div #mymodule_block_left p{
+  font-size: 100%;
+  text-align: center;
+}
+
+div #mymodule_block_left a{
+  font-size: 100%;
+  text-align: center;
+  color:grey;
+}
+
